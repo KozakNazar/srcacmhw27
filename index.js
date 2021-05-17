@@ -1,6 +1,6 @@
 /**************************************************************************************
 * N.Kozak // Lviv'2020 // ACM // event-driven validator example by JavaScript(NodeJS) *
-*    file: acmhw27.js (renamed to index.js)                                           *
+*    file: acmhw28_1.js (renamed to index.js)                                         *
 ***************************************************************************************/
 const ATTEMPTS_COUNT = 5
 var attemptsDownCount = ATTEMPTS_COUNT;
